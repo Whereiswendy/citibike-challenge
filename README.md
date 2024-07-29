@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project provides a detailed analysis of the Citi Bike program in New York City for the year 2023. The analysis is presented through a Tableau story, which includes various visualizations and insights into usage patterns, trip durations, and user behaviors.
+This project provides a detailed analysis of the Citi Bike program in New York City for the year 2023. The analysis is presented through a Tableau story, which includes various visualisations and insights into usage patterns, trip durations, and user behaviours.
 
 ### Highlights:
 1. **Geographic Distribution of Stations**:
@@ -33,11 +33,12 @@ The interactive Tableau story can be accessed via the following link:
 
 This analysis uses data from the Citi Bike Trip History Data, which is publicly available at:
 [Citi Bike Trip History Data](https://www.citibikenyc.com/system-data).
+
 The data was prepared using python and the code is available [here](https://github.com/Whereiswendy/citibike-challenge/blob/main/data_prep.ipynb).
 
 ## Files Included
 
-- `cleaned_citibike_data.csv`: Cleaned dataset used for the analysis.
+- `cleaned_citibike_data_with_zipcodes.csv`: Cleaned dataset used for the analysis.
 - `README.md`: This file providing an overview and details about the project.
 
 ## How to View
@@ -46,12 +47,6 @@ The data was prepared using python and the code is available [here](https://gith
 2. Navigate through the slides to explore the visualizations and insights.
 3. Each slide includes detailed explanations and answers to specific phenomena related to Citi Bike usage.
 
-## Contact Information
-
-For any questions or further information, please contact:
-- **Name**: Wendy Ware
-- **Email**: wendy.ware2@gmail.com
-
 ---
 
-This project was completed as part of the University of Western Australia data analytics bootcamp, with the objective of providing actionable insights into the Citi Bike program's operations and user engagement in 2023.
+This project was completed as part of the University of Western Australia data analytics bootcamp, with the objective of introducing students to Tableau Public.
